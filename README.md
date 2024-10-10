@@ -41,5 +41,6 @@ This project will create a full-featured online shopping platform with scalabili
 Running the Project: Instructions on how to start both the frontend and backend.
 
 Frontend- use npm start
+
 Backend- use node index.js
 
